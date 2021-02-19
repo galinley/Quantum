@@ -1,0 +1,16 @@
+Hello!
+
+Here is a collection of interesting articles I've come across, ranging from short blog posts, to full code based tutorials.
+
+- Quantum Computing Fundamentals
+
+
+
+- Quantum Computing Tutorials
+I highly recommend checking out Qiskit.org.  They have a full Qiskit course (free) that guides you through the basics of coding up quantum applications in Qiskit, up to implementing some of the more complicated quantum algorithms. 
+
+
+- Quantum Computing in Industry
+
+
+
